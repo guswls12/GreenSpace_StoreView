@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD2F2B0A-858A-4BD9-9434-7DAD20F5E5EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "store/StoreCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "StoreCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146 - 9612f015ca16cb45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StoreCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; store.StoreCollectionViewCell"
+                  moduleName = "store"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/junghyeonjin/Desktop/store/store/StoreCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146 - 93048918f49a3c5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StoreCollectionViewCell.init(frame: __C.CGRect) -&gt; store.StoreCollectionViewCell"
+                  moduleName = "store"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/junghyeonjin/Desktop/store/store/StoreCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146 - 74cfb9f0616ecbf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StoreCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;store.StoreCollectionViewCell&gt;"
+                  moduleName = "store"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/junghyeonjin/Desktop/store/store/StoreCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146 - 53cf7fe226899c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StoreCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;store.StoreCollectionViewCell&gt;"
+                  moduleName = "store"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/junghyeonjin/Desktop/store/store/StoreCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "62DF5D67-EBCB-48D7-A449-599D19D56146 - b5bc5baded9fc48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StoreCollectionViewCell.__deallocating_deinit"
+                  moduleName = "store"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/junghyeonjin/Desktop/store/store/StoreCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
